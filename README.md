@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abhitej1216
-- 👀 I’m interested in development
-- 🌱 I’m currently learning DSA
+- 👀 I’m Full Stack Developer
 - 💞️ I’m looking to collaborate on . . . . . 
 - 📫 How to reach me . . . . 
 
